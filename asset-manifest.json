@@ -1,0 +1,27 @@
+{
+  "files": {
+    "main.css": "/fac3m4n/near-turkmen-food-dapp/static/css/main.d87cbb72.chunk.css",
+    "main.js": "/fac3m4n/near-turkmen-food-dapp/static/js/main.da3488b1.chunk.js",
+    "main.js.map": "/fac3m4n/near-turkmen-food-dapp/static/js/main.da3488b1.chunk.js.map",
+    "runtime-main.js": "/fac3m4n/near-turkmen-food-dapp/static/js/runtime-main.e5abbafe.js",
+    "runtime-main.js.map": "/fac3m4n/near-turkmen-food-dapp/static/js/runtime-main.e5abbafe.js.map",
+    "static/css/2.c955f585.chunk.css": "/fac3m4n/near-turkmen-food-dapp/static/css/2.c955f585.chunk.css",
+    "static/js/2.356df456.chunk.js": "/fac3m4n/near-turkmen-food-dapp/static/js/2.356df456.chunk.js",
+    "static/js/2.356df456.chunk.js.map": "/fac3m4n/near-turkmen-food-dapp/static/js/2.356df456.chunk.js.map",
+    "static/js/3.ba0c4855.chunk.js": "/fac3m4n/near-turkmen-food-dapp/static/js/3.ba0c4855.chunk.js",
+    "static/js/3.ba0c4855.chunk.js.map": "/fac3m4n/near-turkmen-food-dapp/static/js/3.ba0c4855.chunk.js.map",
+    "index.html": "/fac3m4n/near-turkmen-food-dapp/index.html",
+    "static/css/2.c955f585.chunk.css.map": "/fac3m4n/near-turkmen-food-dapp/static/css/2.c955f585.chunk.css.map",
+    "static/css/main.d87cbb72.chunk.css.map": "/fac3m4n/near-turkmen-food-dapp/static/css/main.d87cbb72.chunk.css.map",
+    "static/js/2.356df456.chunk.js.LICENSE.txt": "/fac3m4n/near-turkmen-food-dapp/static/js/2.356df456.chunk.js.LICENSE.txt",
+    "static/media/bootstrap-icons.css": "/fac3m4n/near-turkmen-food-dapp/static/media/bootstrap-icons.c1d7432e.woff",
+    "static/media/somsa.122581c3.jpg": "/fac3m4n/near-turkmen-food-dapp/static/media/somsa.122581c3.jpg"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.e5abbafe.js",
+    "static/css/2.c955f585.chunk.css",
+    "static/js/2.356df456.chunk.js",
+    "static/css/main.d87cbb72.chunk.css",
+    "static/js/main.da3488b1.chunk.js"
+  ]
+}
